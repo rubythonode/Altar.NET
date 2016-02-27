@@ -1,3 +1,5 @@
+# NOTE: I [MOVED TO GITLAB](https://github.com/PoroCYon/Moved_To_Gitlab), THE NEW REPO CAN BE FOUND [HERE](https://gitlab.com/PoroCYon/Altar.NET).
+
 Altar.NET
 ======================
 
